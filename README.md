@@ -2,6 +2,13 @@
 
 I am a Software Engineer based in Sweden.
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact"/></td>
+  </tr>
+</table>
+
 <a href="https://github.com/ThomasEmilsson">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord" />
 </a>
