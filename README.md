@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Software Engineer based in Sweden.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)](https://github.com/ThomasEmilsson/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasEmilsson&repo=thomasemilsson.info)](https://www.thomasemilsson.info/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact)](https://github.com/ThomasEmilsson/github-readme-stats)
+
 <!--
 **ThomasEmilsson/ThomasEmilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
