@@ -2,12 +2,14 @@
 
 I am a Software Engineer based in Sweden.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)](https://github.com/ThomasEmilsson/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord)](https://github.com/ThomasEmilsson)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasEmilsson&repo=thomasemilsson.info)](https://www.thomasemilsson.info/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact)](https://github.com/ThomasEmilsson)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact)](https://github.com/ThomasEmilsson/github-readme-stats)
+## Personal Website (Work in Progress)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasEmilsson&repo=thomasemilsson.info&theme=nord)](https://www.thomasemilsson.info/)
 
+Currently working on: [a link](https://stereotyper.io/)
 <!--
 **ThomasEmilsson/ThomasEmilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
