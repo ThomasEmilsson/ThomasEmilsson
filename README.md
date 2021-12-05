@@ -9,10 +9,10 @@ I am a Software Engineer based in Sweden.
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact" />
 </a>
 
-## Personal Website (Work in Progress)
+## Personal Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasEmilsson&repo=thomasemilsson.info&theme=nord)](https://www.thomasemilsson.info/)
 
-## Projects (In Progress): 
+## Projects: 
  - [Stereotyper.io](https://stereotyper.io/)
  - [thomasemilsson.info](https://www.thomasemilsson.info/)
 
