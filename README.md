@@ -9,7 +9,8 @@ I am a Software Engineer based in Sweden.
 ## Personal Website (Work in Progress)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasEmilsson&repo=thomasemilsson.info&theme=nord)](https://www.thomasemilsson.info/)
 
-Currently working on: [Stereotyper.io](https://stereotyper.io/)
+## Currently working on: 
+ - [Stereotyper.io](https://stereotyper.io/)
 <!--
 **ThomasEmilsson/ThomasEmilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
