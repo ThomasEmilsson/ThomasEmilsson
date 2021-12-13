@@ -6,7 +6,7 @@ I am a Software Engineer based in Sweden.
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord&include_all_commits=true" />
 </a>
 <a href="https://github.com/ThomasEmilsson">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=7&layout=compact" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasEmilsson&theme=nord&langs_count=8&layout=compact" />
 </a>
 
 ## Personal Website
