@@ -2,7 +2,7 @@
 
 I am a Software Engineer based in Sweden.
 
-<a href="https://github.com/ThomasEmilsson">
+<a href="https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord&include_all_commits=true">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=ThomasEmilsson&hide=issues,contribs&count_private=true&show_icons=true&theme=nord&include_all_commits=true" />
 </a>
 <a href="https://github.com/ThomasEmilsson">
